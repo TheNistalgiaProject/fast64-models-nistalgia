@@ -1,6 +1,6 @@
 # fast64-models
 
-This repository stores example .blend files for use with the [fast64](https://github.com/Fast-64/fast64) Blender addon.
+This repository stores example .blend files for use with the [fast64](https://github.com/TheNistalgiaProject/fast64-nistalgia) Blender addon.
 
 ## SM64
 - [Mario](mario/README.md)
